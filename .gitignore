@@ -1,0 +1,16 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 测试与截图临时目录
+.shots/
+node_modules/
+*.log
+
+# 学习记录备份（本地导出，不纳入仓库）
+闹闹鱼数学课堂-学习记录-*.json
+
+# 本地会话与记忆目录
+.workbuddy/
